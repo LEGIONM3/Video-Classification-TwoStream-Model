@@ -20,3 +20,7 @@ Dataset/
 ## How to Run
 1. Install dependencies: `torch`, `opencv-python` (with contrib if needed for some algorithms, but Farneback is standard), `torchvision`.
 2. Run `python train.py`.
+
+##HuggingFace
+1.Link: https://huggingface.co/LEGIONM36/Video-Classification-Two-Stream-Model
+
