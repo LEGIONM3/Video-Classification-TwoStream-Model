@@ -22,6 +22,7 @@ Dataset/
 2. Run `python train.py`.
 
 ## HuggingFace
-1.Link: https://huggingface.co/LEGIONM36/Video-Classification-Two-Stream-Model
+ Model Repository Link: https://huggingface.co/LEGIONM36/Video-Classification-Two-Stream-Model
+
 
 
